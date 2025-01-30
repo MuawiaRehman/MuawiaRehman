@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I can name all the Linux distros from Arch to Zorin, and my favorite pastime is tweaking my system just to see how far I can push it.
 
 <!---
-TuxTechie/TuxTechie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MuawiaRehman/MuawiaRehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
