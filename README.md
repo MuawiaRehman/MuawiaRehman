@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TuxTechie
+- 👋 Hi, I’m @MuawiaRehman
 - 👀 I’m interested in open-source projects, Linux distributions, and coding in various programming languages.
 - 🌱 I’m currently learning more about kernel development, containerization with Docker, and system administration.
 - 💞️ I’m looking to collaborate on innovative open-source software, Linux-based projects, and any cool tech initiatives.
